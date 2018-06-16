@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**Just a small elixir cli app to explore the language, covers syntax, core concepts, pattern matching, list comprehension, mix, deps, hex, docs, and testing among other langauge/framework fundamentals**
 
 ## Installation
 
